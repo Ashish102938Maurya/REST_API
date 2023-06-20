@@ -1,0 +1,702 @@
+[
+    {
+        "brand": "Apple",
+        "ram": 13,
+        "rom": 86,
+        "price": 18705,
+        "color": "Puce"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 14,
+        "rom": 268,
+        "price": 99990,
+        "color": "Red"
+    },
+    {
+        "brand": "Huawei",
+        "ram": 15,
+        "rom": 135,
+        "price": 33781,
+        "color": "Maroon"
+    },
+    {
+        "brand": "Nothingphone",
+        "ram": 16,
+        "rom": 257,
+        "price": 110151,
+        "color": "Yellow"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 11,
+        "rom": 329,
+        "price": 40419,
+        "color": "Pink"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 5,
+        "rom": 450,
+        "price": 151580,
+        "color": "Purple"
+    },
+    {
+        "brand": "Sony",
+        "ram": 15,
+        "rom": 138,
+        "price": 17976,
+        "color": "Purple"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 11,
+        "rom": 159,
+        "price": 176112,
+        "color": "Teal"
+    },
+    {
+        "brand": "Oneplus",
+        "ram": 8,
+        "rom": 263,
+        "price": 123270,
+        "color": "Turquoise"
+    },
+    {
+        "brand": "Sony",
+        "ram": 4,
+        "rom": 473,
+        "price": 197740,
+        "color": "Mauv"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 12,
+        "rom": 454,
+        "price": 164361,
+        "color": "Orange"
+    },
+    {
+        "brand": "Apple",
+        "ram": 5,
+        "rom": 220,
+        "price": 80833,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Huawei",
+        "ram": 11,
+        "rom": 73,
+        "price": 150729,
+        "color": "Blue"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 4,
+        "rom": 268,
+        "price": 186854,
+        "color": "Yellow"
+    },
+    {
+        "brand": "Huawei",
+        "ram": 8,
+        "rom": 289,
+        "price": 95353,
+        "color": "Purple"
+    },
+    {
+        "brand": "Huawei",
+        "ram": 8,
+        "rom": 453,
+        "price": 113849,
+        "color": "Maroon"
+    },
+    {
+        "brand": "Honor",
+        "ram": 12,
+        "rom": 510,
+        "price": 34853,
+        "color": "Goldenrod"
+    },
+    {
+        "brand": "Motorola",
+        "ram": 10,
+        "rom": 133,
+        "price": 187875,
+        "color": "Puce"
+    },
+    {
+        "brand": "Motorola",
+        "ram": 15,
+        "rom": 236,
+        "price": 98241,
+        "color": "Fuscia"
+    },
+    {
+        "brand": "Vivo",
+        "ram": 4,
+        "rom": 265,
+        "price": 19772,
+        "color": "Maroon"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 15,
+        "rom": 238,
+        "price": 34927,
+        "color": "Green"
+    },
+    {
+        "brand": "Sony",
+        "ram": 14,
+        "rom": 267,
+        "price": 114384,
+        "color": "Green"
+    },
+    {
+        "brand": "Realme",
+        "ram": 9,
+        "rom": 494,
+        "price": 140459,
+        "color": "Turquoise"
+    },
+    {
+        "brand": "Iqoo",
+        "ram": 6,
+        "rom": 421,
+        "price": 170812,
+        "color": "Mauv"
+    },
+    {
+        "brand": "Google",
+        "ram": 13,
+        "rom": 168,
+        "price": 114130,
+        "color": "Purple"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 13,
+        "rom": 440,
+        "price": 20525,
+        "color": "Green"
+    },
+    {
+        "brand": "Nothingphone",
+        "ram": 9,
+        "rom": 403,
+        "price": 82950,
+        "color": "Maroon"
+    },
+    {
+        "brand": "Realme",
+        "ram": 4,
+        "rom": 344,
+        "price": 24101,
+        "color": "Green"
+    },
+    {
+        "brand": "Iqoo",
+        "ram": 9,
+        "rom": 356,
+        "price": 140149,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Huawei",
+        "ram": 13,
+        "rom": 503,
+        "price": 87415,
+        "color": "Red"
+    },
+    {
+        "brand": "Google",
+        "ram": 14,
+        "rom": 268,
+        "price": 108766,
+        "color": "Puce"
+    },
+    {
+        "brand": "Oneplus",
+        "ram": 12,
+        "rom": 188,
+        "price": 81823,
+        "color": "Khaki"
+    },
+    {
+        "brand": "Vivo",
+        "ram": 6,
+        "rom": 69,
+        "price": 118328,
+        "color": "Turquoise"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 7,
+        "rom": 251,
+        "price": 18080,
+        "color": "Puce"
+    },
+    {
+        "brand": "Sony",
+        "ram": 14,
+        "rom": 156,
+        "price": 110927,
+        "color": "Teal"
+    },
+    {
+        "brand": "Realme",
+        "ram": 7,
+        "rom": 269,
+        "price": 128034,
+        "color": "Turquoise"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 8,
+        "rom": 75,
+        "price": 142329,
+        "color": "Fuscia"
+    },
+    {
+        "brand": "Oneplus",
+        "ram": 4,
+        "rom": 448,
+        "price": 37410,
+        "color": "Orange"
+    },
+    {
+        "brand": "Infinix",
+        "ram": 11,
+        "rom": 160,
+        "price": 53173,
+        "color": "Blue"
+    },
+    {
+        "brand": "Oppo",
+        "ram": 9,
+        "rom": 371,
+        "price": 199458,
+        "color": "Orange"
+    },
+    {
+        "brand": "Nothingphone",
+        "ram": 15,
+        "rom": 359,
+        "price": 32690,
+        "color": "Violet"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 15,
+        "rom": 366,
+        "price": 153469,
+        "color": "Purple"
+    },
+    {
+        "brand": "Honor",
+        "ram": 11,
+        "rom": 365,
+        "price": 102122,
+        "color": "Aquamarine"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 4,
+        "rom": 375,
+        "price": 86763,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Apple",
+        "ram": 16,
+        "rom": 309,
+        "price": 21592,
+        "color": "Mauv"
+    },
+    {
+        "brand": "Realme",
+        "ram": 12,
+        "rom": 466,
+        "price": 34199,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 9,
+        "rom": 488,
+        "price": 130054,
+        "color": "Fuscia"
+    },
+    {
+        "brand": "Infinix",
+        "ram": 7,
+        "rom": 294,
+        "price": 22746,
+        "color": "Purple"
+    },
+    {
+        "brand": "Realme",
+        "ram": 6,
+        "rom": 510,
+        "price": 54119,
+        "color": "Red"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 10,
+        "rom": 258,
+        "price": 155849,
+        "color": "Purple"
+    },
+    {
+        "brand": "Honor",
+        "ram": 15,
+        "rom": 495,
+        "price": 170034,
+        "color": "Khaki"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 16,
+        "rom": 329,
+        "price": 113402,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Vivo",
+        "ram": 5,
+        "rom": 137,
+        "price": 149048,
+        "color": "Maroon"
+    },
+    {
+        "brand": "Huawei",
+        "ram": 4,
+        "rom": 225,
+        "price": 78805,
+        "color": "Teal"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 5,
+        "rom": 287,
+        "price": 112405,
+        "color": "Pink"
+    },
+    {
+        "brand": "Nothingphone",
+        "ram": 9,
+        "rom": 198,
+        "price": 66261,
+        "color": "Yellow"
+    },
+    {
+        "brand": "Micromax",
+        "ram": 12,
+        "rom": 189,
+        "price": 50815,
+        "color": "Pink"
+    },
+    {
+        "brand": "Micromax",
+        "ram": 14,
+        "rom": 446,
+        "price": 108321,
+        "color": "Green"
+    },
+    {
+        "brand": "Oppo",
+        "ram": 9,
+        "rom": 181,
+        "price": 80664,
+        "color": "Blue"
+    },
+    {
+        "brand": "Nothingphone",
+        "ram": 6,
+        "rom": 80,
+        "price": 90132,
+        "color": "Green"
+    },
+    {
+        "brand": "Vivo",
+        "ram": 4,
+        "rom": 129,
+        "price": 33962,
+        "color": "Crimson"
+    },
+    {
+        "brand": "Realme",
+        "ram": 14,
+        "rom": 230,
+        "price": 46119,
+        "color": "Mauv"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 14,
+        "rom": 349,
+        "price": 175208,
+        "color": "Orange"
+    },
+    {
+        "brand": "Realme",
+        "ram": 13,
+        "rom": 476,
+        "price": 26753,
+        "color": "Red"
+    },
+    {
+        "brand": "Google",
+        "ram": 11,
+        "rom": 312,
+        "price": 21459,
+        "color": "Violet"
+    },
+    {
+        "brand": "Apple",
+        "ram": 16,
+        "rom": 148,
+        "price": 192890,
+        "color": "Pink"
+    },
+    {
+        "brand": "Infinix",
+        "ram": 7,
+        "rom": 451,
+        "price": 15906,
+        "color": "Green"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 10,
+        "rom": 161,
+        "price": 89177,
+        "color": "Teal"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 9,
+        "rom": 104,
+        "price": 171442,
+        "color": "Pink"
+    },
+    {
+        "brand": "Motorola",
+        "ram": 9,
+        "rom": 351,
+        "price": 103335,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Nothingphone",
+        "ram": 11,
+        "rom": 181,
+        "price": 131358,
+        "color": "Yellow"
+    },
+    {
+        "brand": "Realme",
+        "ram": 6,
+        "rom": 471,
+        "price": 45312,
+        "color": "Orange"
+    },
+    {
+        "brand": "Oppo",
+        "ram": 12,
+        "rom": 410,
+        "price": 14122,
+        "color": "Crimson"
+    },
+    {
+        "brand": "Honor",
+        "ram": 4,
+        "rom": 312,
+        "price": 153526,
+        "color": "Green"
+    },
+    {
+        "brand": "Sony",
+        "ram": 13,
+        "rom": 107,
+        "price": 165438,
+        "color": "Blue"
+    },
+    {
+        "brand": "Micromax",
+        "ram": 11,
+        "rom": 461,
+        "price": 40898,
+        "color": "Crimson"
+    },
+    {
+        "brand": "Honor",
+        "ram": 15,
+        "rom": 458,
+        "price": 176848,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Motorola",
+        "ram": 7,
+        "rom": 154,
+        "price": 48417,
+        "color": "Fuscia"
+    },
+    {
+        "brand": "Apple",
+        "ram": 6,
+        "rom": 357,
+        "price": 61612,
+        "color": "Violet"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 5,
+        "rom": 277,
+        "price": 115714,
+        "color": "Maroon"
+    },
+    {
+        "brand": "Honor",
+        "ram": 15,
+        "rom": 234,
+        "price": 111831,
+        "color": "Green"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 11,
+        "rom": 408,
+        "price": 141187,
+        "color": "Red"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 10,
+        "rom": 350,
+        "price": 168789,
+        "color": "Turquoise"
+    },
+    {
+        "brand": "Realme",
+        "ram": 10,
+        "rom": 258,
+        "price": 78348,
+        "color": "Red"
+    },
+    {
+        "brand": "Vivo",
+        "ram": 8,
+        "rom": 220,
+        "price": 98796,
+        "color": "Green"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 10,
+        "rom": 119,
+        "price": 105595,
+        "color": "Aquamarine"
+    },
+    {
+        "brand": "Xiaomi",
+        "ram": 5,
+        "rom": 213,
+        "price": 132624,
+        "color": "Khaki"
+    },
+    {
+        "brand": "Google",
+        "ram": 9,
+        "rom": 158,
+        "price": 40415,
+        "color": "Fuscia"
+    },
+    {
+        "brand": "Google",
+        "ram": 16,
+        "rom": 85,
+        "price": 94264,
+        "color": "Turquoise"
+    },
+    {
+        "brand": "Google",
+        "ram": 7,
+        "rom": 374,
+        "price": 85116,
+        "color": "Aquamarine"
+    },
+    {
+        "brand": "Oppo",
+        "ram": 8,
+        "rom": 291,
+        "price": 69199,
+        "color": "Mauv"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 14,
+        "rom": 228,
+        "price": 182432,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Iqoo",
+        "ram": 15,
+        "rom": 403,
+        "price": 95420,
+        "color": "Yellow"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 6,
+        "rom": 364,
+        "price": 66996,
+        "color": "Green"
+    },
+    {
+        "brand": "Samsung",
+        "ram": 12,
+        "rom": 206,
+        "price": 179287,
+        "color": "Red"
+    },
+    {
+        "brand": "Sony",
+        "ram": 12,
+        "rom": 392,
+        "price": 112512,
+        "color": "Maroon"
+    },
+    {
+        "brand": "Apple",
+        "ram": 8,
+        "rom": 464,
+        "price": 100063,
+        "color": "Khaki"
+    },
+    {
+        "brand": "Vivo",
+        "ram": 5,
+        "rom": 497,
+        "price": 130768,
+        "color": "Red"
+    },
+    {
+        "brand": "Nokia",
+        "ram": 6,
+        "rom": 279,
+        "price": 184822,
+        "color": "Indigo"
+    },
+    {
+        "brand": "Huawei",
+        "ram": 6,
+        "rom": 363,
+        "price": 108114,
+        "color": "Green"
+    }
+]
