@@ -1,4 +1,4 @@
-// const config = require('./config');
+const config = require('./config');
 require('dotenv').config();
 const ejs = require('ejs');
 const path = require('path');
@@ -25,8 +25,8 @@ app.use('/api/products',routers_prd);
 
 async function start(){
     try{
-    await mongoConnect(process.env.MONGODB_URL);
-    // await mongoConnect(config.MONGODB_URL);
+    // await mongoConnect(process.env.MONGODB_URL);
+    await mongoConnect(config.MONGODB_URL);
     app.listen(port,(req,res)=>{
         console.log(`Server is Listening at https://localhost:${port}`);
     })
